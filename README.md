@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p align="center">I'm Josias. <br>Salesforce Admin<br><br>Entry-level Salesforce Developer with a solid academic background and a passion for technology. Familiar with fundamental concepts of object-oriented programming and principles of software development. I'm currently working on Apex Specialist superbadge.  </p>&nbsp;
+<p align="center">I'm Josias. <br>Salesforce Admin<br><br>Salesforce Developer with a solid academic background and a passion for technology. Familiar with fundamental concepts of object-oriented programming and principles of software development. I'm currently working on Apex Specialist superbadge.  </p>&nbsp;
 
 ## My Skills
 
